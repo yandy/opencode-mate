@@ -1,4 +1,8 @@
-## feishu
+# 基于 opencode 的个人 AI 助理
+
+## 环境准备
+
+### feishu cli
 
 ```sh
 npm install -g @larksuite/cli
