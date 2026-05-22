@@ -233,3 +233,6 @@ graphify-out/manifest.json
 graphify-out/cost.json
 # local graphify cmd
 graphify-out/.graphify_*
+
+/workdir
+/kbase
