@@ -449,8 +449,8 @@ wheels = [
 
 [[package]]
 name = "kbmate-cli"
-version = "0.1.0"
-source = { git = "https://github.com/yandy/kbmate-cli.git#a82c89a24a116fb8112fe275c580836afa906f0f" }
+version = "0.2.0"
+source = { git = "https://github.com/yandy/kbmate-cli.git#aa5f3294a1bd34b07c6e5c616795dfb6e00da388" }
 dependencies = [
     { name = "pymupdf4llm" },
     { name = "pypandoc" },
