@@ -6,7 +6,7 @@
 
 ```sh
 npm install -g @larksuite/cli
-npx skills add https://open.feishu.cn -y -a opencode
+# npx skills add https://open.feishu.cn -y -a opencode
 
 lark-cli config init
 lark-cli auth login --recommend
